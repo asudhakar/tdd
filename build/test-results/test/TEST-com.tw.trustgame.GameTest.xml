@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tw.trustgame.GameTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-10-15T10:15:51" hostname="Sudhakars-MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="shouldReturnDrawEqualScoreIfCoolPlayer" classname="com.tw.trustgame.GameTest" time="0.005"/>
+  <testcase name="shouldReturnLowerScoreForCooperativePlayer" classname="com.tw.trustgame.GameTest" time="0.0"/>
+  <testcase name="shouldReturnDrawEqualScoreIfCheatPlayer" classname="com.tw.trustgame.GameTest" time="0.0"/>
+  <testcase name="shouldReturnHigherScoreForCheatingPlayer" classname="com.tw.trustgame.GameTest" time="0.0"/>
+  <testcase name="shouldAcceptConsoleValue" classname="com.tw.trustgame.GameTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
